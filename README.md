@@ -1,5 +1,5 @@
 ### Hello World 👋
-# 🔭 I’m currently working on homework
+# 🔭 I’m currently working on my homework
 
 <!--
 **wuyushan513/wuyushan513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
